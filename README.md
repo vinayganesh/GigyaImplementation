@@ -1,4 +1,4 @@
-Gigya API Implementation
+Gigya API JavaScript Implementation
 ===================
 Gigya is a Connected Consumer Management Suite which is implemented using the Social Websites login, Gamification etc. 
 
