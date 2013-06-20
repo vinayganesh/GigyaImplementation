@@ -4,6 +4,8 @@ Gigya is a Connected Consumer Management Suite which is implemented using the So
 
 The implementation here is completely by just using Javascript and a bit of PHP.
 
+website: http://www.gigya.com/products/
+
 Steps
 -------
 1. Clone the application.
